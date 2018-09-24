@@ -1,0 +1,7 @@
+20180924-13:40:50: Session FIX.4.4:FIXSERVER->FIXCLIENT schedule is daily, 16:00:00-UTC - 16:00:00-UTC (daily, 00:00:00-CST - 00:00:00-CST)
+20180924-13:40:50: Created session: FIX.4.4:FIXSERVER->FIXCLIENT
+20180924-13:40:50: Accepting session FIX.4.4:FIXSERVER->FIXCLIENT from /127.0.0.1:55638
+20180924-13:40:50: Acceptor heartbeat set to 30 seconds
+20180924-13:40:50: Received logon
+20180924-13:40:50: Responding to Logon request
+20180924-13:40:58: Disconnecting: Socket exception (/127.0.0.1:55638): java.io.IOException: ?????????????????
